@@ -1,0 +1,30 @@
+[
+    {
+        "ID": 1,
+        "nombre": "lionel messi"
+    },
+    {
+        "ID": 2,
+        "nombre": "diego armando maradona"
+    },
+    {
+        "ID": 3,
+        "nombre": "nicolas tagliafico"
+    },
+    {
+        "ID": 4,
+        "nombre": "juan Roman Riqueleme"
+    },
+    {
+        "ID": 6,
+        "nombre": "julian alvarez"
+    },
+    {
+        "ID": 7,
+        "nombre": "lisandro martinez"
+    },
+    {
+        "ID": 8,
+        "nombre": "juan foyth"
+    }
+]
